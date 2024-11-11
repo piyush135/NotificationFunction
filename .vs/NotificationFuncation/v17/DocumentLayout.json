@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\icsssd0336\\source\\repos\\NotificationFuncation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F92EF4A-8031-46E7-A177-FAE80E2DC7E3}|NotificationFuncation\\NotificationFuncation.csproj|c:\\users\\icsssd0336\\source\\repos\\notificationfuncation\\notificationfuncation\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F92EF4A-8031-46E7-A177-FAE80E2DC7E3}|NotificationFuncation\\NotificationFuncation.csproj|solutionrelative:notificationfuncation\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e77209ba-064a-4625-b8ce-dfd1d7967cd1}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\icsssd0336\\source\\repos\\NotificationFuncation\\NotificationFuncation\\Function1.cs",
+              "RelativeDocumentMoniker": "NotificationFuncation\\Function1.cs",
+              "ToolTip": "C:\\Users\\icsssd0336\\source\\repos\\NotificationFuncation\\NotificationFuncation\\Function1.cs",
+              "RelativeToolTip": "NotificationFuncation\\Function1.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:39:21.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

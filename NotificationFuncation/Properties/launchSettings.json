@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NotificationFuncation": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7242",
+      "launchBrowser": false
+    }
+  }
+}
